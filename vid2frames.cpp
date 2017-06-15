@@ -1,5 +1,4 @@
 // A utility to convert a video to frames using OPENCV.
-// Ujjwal Sharma
 
 #include <iostream>
 #include <stdio.h>
