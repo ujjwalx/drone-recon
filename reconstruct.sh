@@ -49,6 +49,7 @@ fi
 /usr/local/bin/feature_extractor \
 --image_path=$IMAGE_DATA_PATH \
 --database_path=$DATABASE_PATH \
+--camera_model=PINHOLE\
 
 /usr/local/bin/exhaustive_matcher \
 --database_path=$DATABASE_PATH \
